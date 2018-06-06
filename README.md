@@ -17,22 +17,22 @@ Para instalar la librería, solamente es necesario descargarla, descomprimirla y
 
 2. Descomprimir
 
-tar -xzvf dnspython-1.15.0.tar.gz
+``` tar -xzvf dnspython-1.15.0.tar.gz ```
 
 3. Ingresar a la carpeta resultado de la descompresión dnspython-1.15.0
 
-python setup.py install
+``` python setup.py install ```
 
 # Instalación de dnspython - Opción 2
 Para instalar la librería mediante el gestor de paquetes pip solamente es necesario ejecutar el siguiente comando.
 
 1. Descargar e instalar dnspython
 
-pip install dnspython
+``` pip install dnspython ```
 
 2. Comprobar instalación
 
-pip list
+``` pip list ```
 
 # Ejecución de prueba
 
