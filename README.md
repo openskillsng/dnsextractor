@@ -13,7 +13,7 @@ Para instalar la librería, solamente es necesario descargarla, descomprimirla y
 
 1. Descargar dnspython
 
-wget http://www.dnspython.org/kits/1.15.0/dnspython-1.15.0.tar.gz
+``` wget http://www.dnspython.org/kits/1.15.0/dnspython-1.15.0.tar.gz ```
 
 2. Descomprimir
 
