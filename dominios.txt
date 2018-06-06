@@ -1,0 +1,5 @@
+github.com
+google.com
+facebook.com
+openskillsng.com
+youtube.com
