@@ -43,6 +43,6 @@ Para instalar la librería mediante el gestor de paquetes pip solamente es neces
 
 # Ejecución de dnsextractor_recursive
 
-**Usage:** python dnsextractor.py [path domain_list] [querytype]
+**Usage:** python dnsextractor_recursive.py [path domain_list] [querytype]
 
-**Example:** python dnsextractor.py dominios.txt MX
+**Example:** python dnsextractor_recursive.py dominios.txt MX
