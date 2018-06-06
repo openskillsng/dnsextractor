@@ -9,6 +9,6 @@ MX | MailServers
 NS | NameServers
 
 
-Usage: python dnsextractor.py [domain] [querytype]
+**Usage:** python dnsextractor.py [domain] [querytype]
 
-Example: python dnsextractor.py github.com NS
+**Example:** python dnsextractor.py github.com NS
