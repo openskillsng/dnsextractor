@@ -45,4 +45,4 @@ Para instalar la librería mediante el gestor de paquetes pip solamente es neces
 
 **Usage:** python dnsextractor.py [path domain_list] [querytype]
 
-**Example:** python dnsextractor.py /dominios.txt MX
+**Example:** python dnsextractor.py dominios.txt MX
